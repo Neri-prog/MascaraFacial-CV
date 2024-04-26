@@ -18,7 +18,7 @@ Execute o script.
 - Utiliza um classificador Haar Cascade para detectar rostos nas imagens.
 - Renderiza as imagens com retângulos vermelhos delimitando as faces detectadas.
 - Exibe os rótulos das classes acima dos retângulos correspondentes.
-- 
+  
 # Exemplo de Uso
 Definir pastas de imagens e anotações
 images_folder = r'C:\Users\Neri\Downloads\archive (7)\images'
